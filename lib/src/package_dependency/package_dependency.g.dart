@@ -51,8 +51,7 @@ abstract class _$PackageDependency {
       HostedPackageDependency? hosted,
       GitPackageDependency? git,
       PathPackageDependency? path,
-    })
-        make,
+    }) make,
   ) =>
       iswitch(
         sdk: (sdk) => make(sdk: sdk),

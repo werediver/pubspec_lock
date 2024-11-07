@@ -1,3 +1,6 @@
+## [3.0.3] - Update dependencies
+* Support Dart SDK v3.x.x
+
 ## [3.0.2] - Up-to-date dependencies
 * Migration to json2yaml 3.0.1 - Contains fixes for missing double quotes
 * Added support to sha256 in hosted dependencies introduced in dart 2.19
